@@ -1,4 +1,4 @@
-package intro;
+package intro.h1;
 public class LoopDemo {
 
 	public static void main(String[] args) {
