@@ -1,0 +1,8 @@
+C:\Users\Moster\Desktop\webProgramlama\haftaUcOdevBir\haftaUcOdevBir\bin\Debug\haftaUcOdevBir.exe.config
+C:\Users\Moster\Desktop\webProgramlama\haftaUcOdevBir\haftaUcOdevBir\bin\Debug\haftaUcOdevBir.exe
+C:\Users\Moster\Desktop\webProgramlama\haftaUcOdevBir\haftaUcOdevBir\bin\Debug\haftaUcOdevBir.pdb
+C:\Users\Moster\Desktop\webProgramlama\haftaUcOdevBir\haftaUcOdevBir\obj\Debug\haftaUcOdevBir.csproj.AssemblyReference.cache
+C:\Users\Moster\Desktop\webProgramlama\haftaUcOdevBir\haftaUcOdevBir\obj\Debug\haftaUcOdevBir.csproj.SuggestedBindingRedirects.cache
+C:\Users\Moster\Desktop\webProgramlama\haftaUcOdevBir\haftaUcOdevBir\obj\Debug\haftaUcOdevBir.csproj.CoreCompileInputs.cache
+C:\Users\Moster\Desktop\webProgramlama\haftaUcOdevBir\haftaUcOdevBir\obj\Debug\haftaUcOdevBir.exe
+C:\Users\Moster\Desktop\webProgramlama\haftaUcOdevBir\haftaUcOdevBir\obj\Debug\haftaUcOdevBir.pdb
